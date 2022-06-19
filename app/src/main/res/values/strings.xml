@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">AndroidP</string>
     <string name="title_home">Flagtick</string>
+    <string name="description_app">Flagtick Sharing</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
 </resources>
